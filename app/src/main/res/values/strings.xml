@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalBroadcastManager</string>
+    <string name="value_text">Comunicação com LocalBroadcastManager</string>
+</resources>
